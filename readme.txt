@@ -5,3 +5,4 @@ Git tracks changes of files.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 Git is and distributed. 
+Git is a free software 
